@@ -1,3 +1,8 @@
+## NO LONGER MAINTAINED
+
+> [!WARNING]  
+> This software is no longer maintained. It **DOES NOT** support Joomla 6 or later versions.
+
 # FilterMagic
 
 Add custom filters to your Joomla categories
